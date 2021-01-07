@@ -1,0 +1,1019 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HTV1 HD">
+    <display-name lang="hr">HTV1 HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HTV2 HD">
+    <display-name lang="hr">HTV2 HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RTL">
+    <display-name lang="hr">RTL</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="NOVA TV HD">
+    <display-name lang="hr">NOVA TV HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RTL2">
+    <display-name lang="hr">RTL2</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HTV3 HD">
+    <display-name lang="hr">HTV3 HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HTV4 HD">
+    <display-name lang="hr">HTV4 HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RTL Kockica">
+    <display-name lang="hr">RTL Kockica</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="MINI TV">
+    <display-name lang="hr">MINI TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="BBC First">
+    <display-name lang="hr">BBC First</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RTL LIVING">
+    <display-name lang="hr">RTL LIVING</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="INFO KANAL">
+    <display-name lang="hr">INFO KANAL</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="B.NET MOZAIK">
+    <display-name lang="hr">B.NET MOZAIK</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="N1">
+    <display-name lang="hr">N1</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SPORTSKA TV">
+    <display-name lang="hr">SPORTSKA TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="JABUKA TV">
+    <display-name lang="hr">JABUKA TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Z1">
+    <display-name lang="hr">Z1</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="MREŽAZG">
+    <display-name lang="hr">MREŽAZG</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC">
+    <display-name lang="hr">NATIONAL GEOGRAPHIC</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DOCUBOX">
+    <display-name lang="hr">DOCUBOX</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DOKUTV">
+    <display-name lang="hr">DOKUTV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DOKUTV HD">
+    <display-name lang="hr">DOKUTV HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Planet Earth">
+    <display-name lang="hr">Planet Earth</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DOCUBOX HD">
+    <display-name lang="hr">DOCUBOX HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="VIASAT HISTORY">
+    <display-name lang="hr">VIASAT HISTORY</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="VIASAT EXPLORE">
+    <display-name lang="hr">VIASAT EXPLORE</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="EPIC DRAMA">
+    <display-name lang="hr">EPIC DRAMA</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="NICKELODEON">
+    <display-name lang="hr">NICKELODEON</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="hr">CARTOON NETWORK</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="CINESTAR TV 1">
+    <display-name lang="hr">CINESTAR TV 1</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="CINESTAR ACTION &amp; THRILLER">
+    <display-name lang="hr">CINESTAR ACTION &amp; THRILLER</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DIVA">
+    <display-name lang="hr">DIVA</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="TV1000">
+    <display-name lang="hr">TV1000</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Gametoon">
+    <display-name lang="hr">Gametoon</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Gametoon HD">
+    <display-name lang="hr">Gametoon HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FOX Movies">
+    <display-name lang="hr">FOX Movies</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="hr">FOX</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FOX LIFE">
+    <display-name lang="hr">FOX LIFE</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="COMEDY CENTRAL EXTRA">
+    <display-name lang="hr">COMEDY CENTRAL EXTRA</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="PLANETSPORT 1">
+    <display-name lang="hr">PLANETSPORT 1</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="PLANETSPORT 2">
+    <display-name lang="hr">PLANETSPORT 2</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="PLANETSPORT 3">
+    <display-name lang="hr">PLANETSPORT 3</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="PLANETSPORT 4">
+    <display-name lang="hr">PLANETSPORT 4</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="PLANETSPORT 5">
+    <display-name lang="hr">PLANETSPORT 5</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Gledaj PlanetSport">
+    <display-name lang="hr">Gledaj PlanetSport</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SK 1">
+    <display-name lang="hr">SK 1</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SK 3">
+    <display-name lang="hr">SK 3</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="hr">MTV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="hr">VH1</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="CROATIAN MUSIC CHANNEL">
+    <display-name lang="hr">CROATIAN MUSIC CHANNEL</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="hr">HBO</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="hr">HBO 2</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HBO 3">
+    <display-name lang="hr">HBO 3</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="CINEMAX">
+    <display-name lang="hr">CINEMAX</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="CINEMAX 2">
+    <display-name lang="hr">CINEMAX 2</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="hr">HBO HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="hr">HBO 2 HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HBO 3 HD">
+    <display-name lang="hr">HBO 3 HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="CINEMAX HD">
+    <display-name lang="hr">CINEMAX HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="CINEMAX 2 HD">
+    <display-name lang="hr">CINEMAX 2 HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Eurochannel">
+    <display-name lang="hr">Eurochannel</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Eurochannel HD">
+    <display-name lang="hr">Eurochannel HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FilmBox Arthouse">
+    <display-name lang="hr">FilmBox Arthouse</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FilmBox Plus">
+    <display-name lang="hr">FilmBox Plus</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FilmBox Extra HD">
+    <display-name lang="hr">FilmBox Extra HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="hr">AMC</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="hr">AMC HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="PINK PLUS">
+    <display-name lang="hr">PINK PLUS</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="NAT GEO WILD">
+    <display-name lang="hr">NAT GEO WILD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="VIASAT NATURE">
+    <display-name lang="hr">VIASAT NATURE</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="CBS REALITY">
+    <display-name lang="hr">CBS REALITY</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Dr.Fit">
+    <display-name lang="hr">Dr.Fit</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DA VINCI">
+    <display-name lang="hr">DA VINCI</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="24KITCHEN">
+    <display-name lang="hr">24KITCHEN</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FOOD NETWORK">
+    <display-name lang="hr">FOOD NETWORK</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="TRAVEL CHANNEL">
+    <display-name lang="hr">TRAVEL CHANNEL</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HISTORY">
+    <display-name lang="hr">HISTORY</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Pikaboo">
+    <display-name lang="hr">Pikaboo</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="VAVOOM">
+    <display-name lang="hr">VAVOOM</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="BOOMERANG">
+    <display-name lang="hr">BOOMERANG</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="hr">E!</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FINE LIVING">
+    <display-name lang="hr">FINE LIVING</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SK 2">
+    <display-name lang="hr">SK 2</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FOX CRIME">
+    <display-name lang="hr">FOX CRIME</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="KINOTV">
+    <display-name lang="hr">KINOTV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RTL CRIME">
+    <display-name lang="hr">RTL CRIME</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RTL PASSION">
+    <display-name lang="hr">RTL PASSION</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="WOMAN">
+    <display-name lang="hr">WOMAN</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="WNESS TV">
+    <display-name lang="hr">WNESS TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="TravelXP">
+    <display-name lang="hr">TravelXP</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="hr">AXN</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="AXN Spin">
+    <display-name lang="hr">AXN Spin</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SCI FI">
+    <display-name lang="hr">SCI FI</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="KLASIK TV">
+    <display-name lang="hr">KLASIK TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FIGHT CHANNEL">
+    <display-name lang="hr">FIGHT CHANNEL</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="CINESTAR TV PREMIERE 1">
+    <display-name lang="hr">CINESTAR TV PREMIERE 1</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="CINESTAR TV PREMIERE 2">
+    <display-name lang="hr">CINESTAR TV PREMIERE 2</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="CINESTAR TV PREMIERE 1 HD">
+    <display-name lang="hr">CINESTAR TV PREMIERE 1 HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="CINESTAR TV PREMIERE 2 HD">
+    <display-name lang="hr">CINESTAR TV PREMIERE 2 HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SK 4">
+    <display-name lang="hr">SK 4</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SK 5">
+    <display-name lang="hr">SK 5</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SK 6">
+    <display-name lang="hr">SK 6</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="ESportsTV">
+    <display-name lang="hr">ESportsTV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="ESportsTV HD">
+    <display-name lang="hr">ESportsTV HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HNTV">
+    <display-name lang="hr">HNTV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="KREATOR TV">
+    <display-name lang="hr">KREATOR TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="GINX">
+    <display-name lang="hr">GINX</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Fashion TV">
+    <display-name lang="hr">Fashion TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="JUGOTON">
+    <display-name lang="hr">JUGOTON</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Narodni">
+    <display-name lang="hr">Narodni</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="BALKANIKA MUSIC TV">
+    <display-name lang="hr">BALKANIKA MUSIC TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SLO 1">
+    <display-name lang="hr">SLO 1</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SLO 2">
+    <display-name lang="hr">SLO 2</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FEDERALNA TV">
+    <display-name lang="hr">FEDERALNA TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RTS SVET">
+    <display-name lang="hr">RTS SVET</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RTCG">
+    <display-name lang="hr">RTCG</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RTL TELEVISION">
+    <display-name lang="hr">RTL TELEVISION</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="PRO 7">
+    <display-name lang="hr">PRO 7</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="3 SAT">
+    <display-name lang="hr">3 SAT</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="MEDIASET ITALIA">
+    <display-name lang="hr">MEDIASET ITALIA</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RAI UNO">
+    <display-name lang="hr">RAI UNO</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="TV5MONDE">
+    <display-name lang="hr">TV5MONDE</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="ARTE">
+    <display-name lang="hr">ARTE</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="AL JAZEERA BALKANS">
+    <display-name lang="hr">AL JAZEERA BALKANS</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="hr">CNN</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Laudato TV">
+    <display-name lang="hr">Laudato TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FULL TV">
+    <display-name lang="hr">FULL TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="TV JADRAN">
+    <display-name lang="hr">TV JADRAN</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="KANAL 5 TV">
+    <display-name lang="hr">KANAL 5 TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="MREŽAST">
+    <display-name lang="hr">MREŽAST</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="KANAL RI">
+    <display-name lang="hr">KANAL RI</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="TV ISTRA">
+    <display-name lang="hr">TV ISTRA</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="TV NOVA PULA">
+    <display-name lang="hr">TV NOVA PULA</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="OSJEČKA TV">
+    <display-name lang="hr">OSJEČKA TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="VINKOVAČKA TV">
+    <display-name lang="hr">VINKOVAČKA TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SLAVONSKA TV">
+    <display-name lang="hr">SLAVONSKA TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="VARAŽDINSKA TELEVIZIJA">
+    <display-name lang="hr">VARAŽDINSKA TELEVIZIJA</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SBTV">
+    <display-name lang="hr">SBTV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RTV Banovina">
+    <display-name lang="hr">RTV Banovina</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DUTV">
+    <display-name lang="hr">DUTV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="TV ZAPAD">
+    <display-name lang="hr">TV ZAPAD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Libertas TV">
+    <display-name lang="hr">Libertas TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DMC">
+    <display-name lang="hr">DMC</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="POLJOPRIVREDNA TV">
+    <display-name lang="hr">POLJOPRIVREDNA TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="ZDRAVA TV-7">
+    <display-name lang="hr">ZDRAVA TV-7</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="NOVA CINEMA">
+    <display-name lang="hr">NOVA CINEMA</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="NOVA FAMILY">
+    <display-name lang="hr">NOVA FAMILY</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SKY NEWS">
+    <display-name lang="hr">SKY NEWS</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FOX NEWS">
+    <display-name lang="hr">FOX NEWS</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="China Global Television Network">
+    <display-name lang="hr">China Global Television Network</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="AL JAZEERA ENGLISH">
+    <display-name lang="hr">AL JAZEERA ENGLISH</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="AL JAZEERA BALKANS HD">
+    <display-name lang="hr">AL JAZEERA BALKANS HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="hr">CNBC</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DEUTSCHE WELLE">
+    <display-name lang="hr">DEUTSCHE WELLE</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="BBC WORLD NEWS">
+    <display-name lang="hr">BBC WORLD NEWS</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FRANCE 24">
+    <display-name lang="hr">FRANCE 24</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FRANCE 24 HD">
+    <display-name lang="hr">FRANCE 24 HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FRANCE 24 HD ENG">
+    <display-name lang="hr">FRANCE 24 HD ENG</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="FRANCE 24 HD FRA">
+    <display-name lang="hr">FRANCE 24 HD FRA</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="N24">
+    <display-name lang="hr">N24</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RUSSIA TODAY TV">
+    <display-name lang="hr">RUSSIA TODAY TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="EURONEWS">
+    <display-name lang="hr">EURONEWS</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="TV ESPANA">
+    <display-name lang="hr">TV ESPANA</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SPORTSKOOL">
+    <display-name lang="hr">SPORTSKOOL</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="EXTREME SPORTS CHANNEL">
+    <display-name lang="hr">EXTREME SPORTS CHANNEL</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="NAUTICAL CHANNEL">
+    <display-name lang="hr">NAUTICAL CHANNEL</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SK GOLF">
+    <display-name lang="hr">SK GOLF</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="BODY IN BALANCE">
+    <display-name lang="hr">BODY IN BALANCE</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="LOV I RIBOLOV">
+    <display-name lang="hr">LOV I RIBOLOV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="AUTO MOTOR UND SPORT">
+    <display-name lang="hr">AUTO MOTOR UND SPORT</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="hr">BABY TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="JIM JAM">
+    <display-name lang="hr">JIM JAM</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="TIJI">
+    <display-name lang="hr">TIJI</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="KI.KA">
+    <display-name lang="hr">KI.KA</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="NICK JR.">
+    <display-name lang="hr">NICK JR.</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DUCK TV">
+    <display-name lang="hr">DUCK TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="MTV ROCKS INTERNATIONAL">
+    <display-name lang="hr">MTV ROCKS INTERNATIONAL</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="MTV HITS INTERNATIONAL">
+    <display-name lang="hr">MTV HITS INTERNATIONAL</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="MTV DANCE INTERNATIONAL">
+    <display-name lang="hr">MTV DANCE INTERNATIONAL</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="MTV MUSIC 24">
+    <display-name lang="hr">MTV MUSIC 24</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="VH1 CLASSIC">
+    <display-name lang="hr">VH1 CLASSIC</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="TRACE URBAN">
+    <display-name lang="hr">TRACE URBAN</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="MEZZO">
+    <display-name lang="hr">MEZZO</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Stignray CMusic">
+    <display-name lang="hr">Stignray CMusic</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="KISS TV">
+    <display-name lang="hr">KISS TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="KERRANG!">
+    <display-name lang="hr">KERRANG!</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="BOX HITS">
+    <display-name lang="hr">BOX HITS</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="MAGIC">
+    <display-name lang="hr">MAGIC</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DM SAT">
+    <display-name lang="hr">DM SAT</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="TDC">
+    <display-name lang="hr">TDC</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Narodni HD">
+    <display-name lang="hr">Narodni HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="BALKANIKA MUSIC TV HD">
+    <display-name lang="hr">BALKANIKA MUSIC TV HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Klape i tambure TV">
+    <display-name lang="hr">Klape i tambure TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="STOP TV">
+    <display-name lang="hr">STOP TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="TV BN SAT">
+    <display-name lang="hr">TV BN SAT</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="GOLICA TV">
+    <display-name lang="hr">GOLICA TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="ČARLI TV">
+    <display-name lang="hr">ČARLI TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="KCN MUSIC 2">
+    <display-name lang="hr">KCN MUSIC 2</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="KCN 3">
+    <display-name lang="hr">KCN 3</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HAPPY TV">
+    <display-name lang="hr">HAPPY TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="MKTV SAT">
+    <display-name lang="hr">MKTV SAT</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DUSK! TV">
+    <display-name lang="hr">DUSK! TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="NOVA HD">
+    <display-name lang="hr">NOVA HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DOMA TV HD">
+    <display-name lang="hr">DOMA TV HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC HD">
+    <display-name lang="hr">NATIONAL GEOGRAPHIC HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="NAT GEO WILD HD">
+    <display-name lang="hr">NAT GEO WILD HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HISTORY HD">
+    <display-name lang="hr">HISTORY HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="KINOTV HD">
+    <display-name lang="hr">KINOTV HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="MYZEN.TV HD">
+    <display-name lang="hr">MYZEN.TV HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="LUXE.TV HD">
+    <display-name lang="hr">LUXE.TV HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="ARTE HD">
+    <display-name lang="hr">ARTE HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DAS ERSTE HD">
+    <display-name lang="hr">DAS ERSTE HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="ZDF HD">
+    <display-name lang="hr">ZDF HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SK 3 HD">
+    <display-name lang="hr">SK 3 HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SK 1 HD">
+    <display-name lang="hr">SK 1 HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SK 2 HD">
+    <display-name lang="hr">SK 2 HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SK HD">
+    <display-name lang="hr">SK HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="SK GOLF HD">
+    <display-name lang="hr">SK GOLF HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="KREATOR TV HD">
+    <display-name lang="hr">KREATOR TV HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="VOX TV">
+    <display-name lang="hr">VOX TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="TV ŠIBENIK">
+    <display-name lang="hr">TV ŠIBENIK</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RI TV">
+    <display-name lang="hr">RI TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RAI SCUOLA">
+    <display-name lang="hr">RAI SCUOLA</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RTL II">
+    <display-name lang="hr">RTL II</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="VOX">
+    <display-name lang="hr">VOX</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RAI DUE">
+    <display-name lang="hr">RAI DUE</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RAI TRE">
+    <display-name lang="hr">RAI TRE</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RTV2">
+    <display-name lang="hr">RTV2</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RTV1">
+    <display-name lang="hr">RTV1</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RTS 1">
+    <display-name lang="hr">RTS 1</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RTS 2">
+    <display-name lang="hr">RTS 2</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DORCEL TV">
+    <display-name lang="hr">DORCEL TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="BRAZZERS  TV EUROPE">
+    <display-name lang="hr">BRAZZERS  TV EUROPE</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="ADULT CHANNEL">
+    <display-name lang="hr">ADULT CHANNEL</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HUSTLER HD">
+    <display-name lang="hr">HUSTLER HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HUSTLER TV">
+    <display-name lang="hr">HUSTLER TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DORCEL HD">
+    <display-name lang="hr">DORCEL HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="PLAYBOY TV">
+    <display-name lang="hr">PLAYBOY TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Fashion One HD">
+    <display-name lang="hr">Fashion One HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DUNA WORLD">
+    <display-name lang="hr">DUNA WORLD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Pure Babes">
+    <display-name lang="hr">Pure Babes</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="BABES TV">
+    <display-name lang="hr">BABES TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Reality Kings">
+    <display-name lang="hr">Reality Kings</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="DUNA TV">
+    <display-name lang="hr">DUNA TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HTV 1">
+    <display-name lang="hr">HTV 1</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="HTV 2">
+    <display-name lang="hr">HTV 2</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="RTL KOCKICA">
+    <display-name lang="hr">RTL KOCKICA</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="IDJ">
+    <display-name lang="hr">IDJ</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Grand">
+    <display-name lang="hr">Grand</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Kino TV HD">
+    <display-name lang="hr">Kino TV HD</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="CGTN">
+    <display-name lang="hr">CGTN</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Hayat Plus">
+    <display-name lang="hr">Hayat Plus</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="Extra TV">
+    <display-name lang="hr">Extra TV</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+  <channel id="MUSIC CHANNEL">
+    <display-name lang="hr">MUSIC CHANNEL</display-name>
+    <url>http://www.a1.hr</url>
+  </channel>
+</tv>
